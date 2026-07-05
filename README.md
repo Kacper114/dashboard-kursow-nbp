@@ -9,7 +9,7 @@ Aplikacja jest interaktywnym dashboardem w Streamlit, który analizuje historycz
 Po wdrożeniu na Streamlit Community Cloud wklej tutaj link:
 
 ```text
-[https://twoja-aplikacja.streamlit.app](https://dashboard-kursow-nbp-t5khquvnnvuyihdezd4avb.streamlit.app)
+https://dashboard-kursow-nbp-t5khquvnnvuyihdezd4avb.streamlit.app
 ```
 
 ## Źródło danych
